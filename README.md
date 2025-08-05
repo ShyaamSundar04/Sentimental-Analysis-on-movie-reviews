@@ -1,1 +1,2 @@
 # Sentimental-Analysis-on-movie-reviews
+This project focuses on analyzing the sentiment of movie reviews using machine learning in Python. It involves cleaning and processing text data through NLP techniques like tokenization, removing stopwords, and vectorizing with TF-IDF or CountVectorizer. The project also includes performance evaluation using metrics like accuracy, precision, and recall, with support for predicting sentiment on custom reviews.
